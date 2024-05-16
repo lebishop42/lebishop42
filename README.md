@@ -8,7 +8,7 @@
 #### So I've been learning:
 * Python :snake:
 * SQL
-* HTML and CSS (more slowly but on my radar) and
+* HTML and CSS and I'm coming for Javascript once I have a handle on the above
     
 ***Random fact***: I love making clothes (mostly for kids) and you can see some of my makes [here](https://whalesandwhiskers.co.uk).
   
