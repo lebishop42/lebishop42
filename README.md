@@ -1,15 +1,9 @@
-#### Hello, I'm Louise and I started learning to code because:
-:stars: I'm fascinated by the world of data and amazed by what we can do with and show through it.
+#### Hello, I'm Louise, welcome to my space:
+# About me:
+🌠 I initially trained as a lawyer but always found the most persuasive arguments are those backed by numbers.
 
-:stars: I'm excited by the level of sophistication and flexibility that coding allows in data analysis and visualations, and eager to harness this.
+🌠 I get a lot of satisfaction from problem-solving and even more so when these are code-based and allow me to learn new skills along the way.
 
-:stars: I look forward to being able to being able to tell unusual and engaging stories to people from all walks of life with my new found skills. 
-   
-#### So I've been learning:
-* Python :snake:
-* SQL
-* HTML and CSS and I'm coming for Javascript once I have a handle on the above
-    
-***Random fact***: I love making clothes (mostly for kids) and you can see some of my makes [here](https://whalesandwhiskers.co.uk).
+🌠 Lastly, I love being able to tell unique and engaging stories to diverse audiencces with a good set of data visuals. 
   
 **If any of this grabs your attention, please come find me on :arrow_right: [LinkedIn](https://www.linkedin.com/in/louise-bishop-63786364/).**
